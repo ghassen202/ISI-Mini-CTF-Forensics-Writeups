@@ -31,6 +31,7 @@ in the volatility ``` python2 vol.py -f lasten.raw --profile=Win7SP1x64 envars `
 
 <img src="https://github.com/ghassen202/ISI-Mini-CTF-Forensics-Writeups/assets/74879627/d41ff098-e8fd-4d72-9a23-77d67f4ce09c">
 
+`Flag : Securinets{WINDOWS_GASTRA-WIN7}`
 ## Task 04 :
 The 4th task mission was to extract salah source code and his logs to unravel the two parts of the flag.
 
