@@ -57,18 +57,18 @@ We will do the same steps to extract his log files :
 ## Task 05 : 
 For the next one the player should be familiar with dumping files so it's getting easier.
 
-<img src="https://github.com/ghassen202/ISI-Mini-CTF-Forensics-Writeups/assets/74879627/60fab62e-273c-423c-ada7-83b283eb9080">
+<img src="https://github.com/ghassen202/ISI-Mini-CTF-Forensics-Writeups/assets/74879627/60fab62e-273c-423c-ada7-83b283eb9080" width="400" height="400">
 
 <img src="https://github.com/ghassen202/ISI-Mini-CTF-Forensics-Writeups/assets/74879627/8e9322e0-8c75-41a2-9781-a88c865ddbd8">
 
 <img src="https://github.com/ghassen202/ISI-Mini-CTF-Forensics-Writeups/assets/74879627/62c4d26b-e285-44b9-bad2-a8aac98a9600">
 
-Flag : <br> <img src="https://github.com/ghassen202/ISI-Mini-CTF-Forensics-Writeups/assets/74879627/8531cc39-f7c6-4a2d-acec-e31d57609f46">
+Flag : <br> <img src="https://github.com/ghassen202/ISI-Mini-CTF-Forensics-Writeups/assets/74879627/8531cc39-f7c6-4a2d-acec-e31d57609f46" width="700" height="400">
 
 ## Task 06 : 
 Now the attack has took place let's investigate more through this task :
 
-<img src="https://github.com/ghassen202/ISI-Mini-CTF-Forensics-Writeups/assets/74879627/b7d28529-9484-4134-9c0c-b1ced58d95f3">
+<img src="https://github.com/ghassen202/ISI-Mini-CTF-Forensics-Writeups/assets/74879627/b7d28529-9484-4134-9c0c-b1ced58d95f3" width="400" height="400">
 
 In Order to find Salah's ip we could scan the network by using the netscan plugin ```python2 vol.py -f lasten.raw --profile=Win7SP1x64 netscan -v``` : 
 
