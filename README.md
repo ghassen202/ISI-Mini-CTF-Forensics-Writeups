@@ -1,3 +1,4 @@
+
 # ISI-Mini-CTF-Forensics-Writeup
 A beginner friendly Capture The Flag (CTF) where I created a windows7 Memory Dump in order to investigate an attack on a computer using the volatility tool, the tasks were guided to introduce new comers into the world of cybersecurity to dive into memory analysis.
 
