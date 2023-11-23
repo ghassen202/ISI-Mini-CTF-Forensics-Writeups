@@ -186,7 +186,7 @@ The Backagainn.ps1 file was a reverse shell connection that runs daily on Salah'
 Having all of the information necessary let's assemble our flag : `Securinets{Task_Scheduler_149.100.50.25_4444}`
 
 # Final Thoughts : 
-Hope you enjoyed this set of tasks,however after I completed the creation of this task i realized it wasn't very beginner friendly except for the first ones, you can always try to solve this at your own and ask if you need any help, it is a bit challenging for a first timer but it's definetly a beneficial skill to acquire in the journey of learning cybersecurity.
+Hope you enjoyed these set of challenges,however after I completed the creation of this series i realized it wasn't very beginner friendly except for the first ones, you can always try to solve this at your own and ask if you need any help, it is a bit challenging for a first timer but it's definetly worth it and it is a beneficial skill to acquire in the journey of learning cybersecurity.
 
 
 
